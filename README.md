@@ -6,9 +6,9 @@ A passionate Cybersecurity SOC Analyst that is focused on safeguarding digital a
 
 <h2> Skills </h2>
 
-| Skill                                         | Associated Project         | Tools Utilized |
-|-----------------------------------------------|----------------------------|---------------- |
-| SIEM Implementation and Log Analysis          | --------------------------- | --------------- |
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/HawauQ/Home-SOC-Lab/blob/main/README.md">Home SOC Lab</a>|
 
 
 <h2> Certifications </h2>
@@ -20,7 +20,7 @@ A passionate Cybersecurity SOC Analyst that is focused on safeguarding digital a
 </div>
 
 <h2>👨‍💻 Projects </h2>
--- Build a Home SOC Lab
+<a href="https://github.com/HawauQ/Home-SOC-Lab/blob/main/README.md">Build a Home SOC Lab</a>
 
 
 <!--
